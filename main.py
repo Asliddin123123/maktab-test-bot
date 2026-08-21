@@ -9,7 +9,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 from questions import QUIZ_DATA
 
-BOT_TOKEN = "BU_YERGA_TOKENINGIZNI_YOZING"
+BOT_TOKEN = "8347143017:AAFKsCG8hWFmZbXvOjCQ8TVLRE83PeZjwg8"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
